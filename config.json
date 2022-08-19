@@ -1,0 +1,7 @@
+{
+	"boot": "live",
+   	"disk": "disk.img",
+   	"ram": 8192,
+  	"size": 5120,
+    "cpu_cores": 4
+}
