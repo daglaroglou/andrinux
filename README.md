@@ -1,2 +1,2 @@
-# andrinux
+# Andrinux
 Android emulator on Linux
